@@ -4,6 +4,6 @@ Este proyecto es una aplicación de gestión para una peluquería canina, desarr
 
 ## Características
 
-- **Interfaz Gráfica**: Carga, visualiza, edita y elimina clientes de forma intuitiva.
+- **Interfaz Gráfica**: Carga, visualiza, edita y elimina clientes.
 - **Gestión de Clientes**: Agrega nuevos clientes y accede a un listado de todos ellos.
 - **Base de Datos**: Utiliza JPA para la gestión de datos y PHPMyAdmin para la administración de la base de datos.
